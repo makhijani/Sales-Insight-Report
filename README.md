@@ -1,1 +1,3 @@
-# Sales-Insight-Report
+- A Power BI interactive Dashboard is created for the computer hardware business.
+- Real time Sales Insight and Revenue earned each month and each year is shown in the dashboard.
+- This will help to identify the areas to improve the revenue of the business.
